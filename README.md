@@ -1,5 +1,5 @@
 # So_long
 
 
-### make
+```make```
 ### ./so_long map/map00.ber
