@@ -1,6 +1,6 @@
 <div align="center">
 
-  # So_long
+  # 🖥️ So_long 🎮
 
 </div>
 <br>
