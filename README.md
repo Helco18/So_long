@@ -1,4 +1,8 @@
-# So_long
+<div align="center">
+
+  # So_long
+
+</div>
 <br>
 
 ## load
