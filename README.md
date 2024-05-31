@@ -1,5 +1,6 @@
 # So_long
+<br>
 
-
-```make```
-### ./so_long map/map00.ber
+## load
+1. ```make```
+2. ```./so_long map/map00.ber```
